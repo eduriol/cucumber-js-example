@@ -1,0 +1,16 @@
+{
+  "name": "cucumber-js-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^2.25.1",
+    "cucumber": "^2.0.0-rc.4",
+    "selenium-webdriver": "^3.0.1"
+  }
+}
